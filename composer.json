@@ -1,0 +1,16 @@
+{
+    "name": "jiangguowu/eth",
+    "type": "library",
+    "authors": [
+        {
+            "name": "jiangguowu",
+            "email": "3318632171@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+	   "psr-4": {                    
+	       "jiangguowu\\": "src"
+	   }
+	}
+}
